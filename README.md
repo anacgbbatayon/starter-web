@@ -19,3 +19,7 @@ Adding another line for purpose of merge/diff
 ## How to Contributes
 
 This is another modification for merge/diff
+
+## Copyright
+
+2019 Git.Training.
