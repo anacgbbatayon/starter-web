@@ -1,8 +1,10 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This is a test for git/merge/diff
 
 ## Introduction
+
+This is another example for merge/diff
 
 ## Purpose
 
@@ -10,4 +12,4 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-## How to Contribute
+## How to Contributes
