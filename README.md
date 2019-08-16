@@ -20,6 +20,8 @@ Adding another line for purpose of merge/diff
 
 This is another modification for merge/diff
 
+Another line. 
+
 ## Copyright
 
 2019 Git.Training.
