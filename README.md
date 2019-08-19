@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a test for git/merge/diff
+Adding a line for rebasing
 
 ## Introduction
 
