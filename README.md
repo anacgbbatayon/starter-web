@@ -2,6 +2,7 @@
 
 This is a test for git/merge/diff
 Adding a line for rebasing
+More changes for myfeature branch
 
 ## Introduction
 
