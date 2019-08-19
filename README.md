@@ -23,6 +23,7 @@ Adding another line for purpose of merge/diff
 This is another modification for merge/diff
 
 Another line. 
+Another line for emergency fix.
 
 ## Copyright
 
